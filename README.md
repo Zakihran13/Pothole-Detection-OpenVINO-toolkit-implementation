@@ -1,4 +1,4 @@
-# Pothole Detection using OpenVINO
+# Pothole Detection: OpenVINO toolkit implementation
 
 this project utilizing YOLOv8 Nano version for main network. the network then converted into IR format for running in OpenVINO toolkit and then optimized using NNCF (Neural Network Compression Framework) to get better performance.
 
